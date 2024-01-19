@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+langchainhub
+bs4
+tiktoken
+langchain-openai
